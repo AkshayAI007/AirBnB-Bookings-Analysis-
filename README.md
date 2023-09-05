@@ -1,8 +1,29 @@
 # AirBnB-Bookings-Analysis-
-Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present a more unique, personalized way of experiencing the world. Today, Airbnb became one of a kind service that is used and recognized by the whole world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These millions of listings generate a lot of data - data that can be analyzed and used for security, business decisions, understanding of customers' and providers' (hosts) behavior and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more.
-This dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values.
-Explore and analyze the data to discover key understandings (not limited to these) such as :
-What can we learn about different hosts and areas?
-What can we learn from predictions? (ex: locations, prices, reviews, etc)
-Which hosts are the busiest and why?
-Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+
+
+![0_xwRTz6CaoH3TFefl](https://github.com/AkshayAI007/AirBnB-Bookings-Analysis-/assets/110448324/cc437169-1d58-4985-9c0e-87fbffaf8e61)
+
+# Problem statement-
+* What are the most popular neighborhoods for Airbnb rentals in New York City? How do prices and availability vary by neighborhood?
+
+* How has the Airbnb market in New York City changed over time? Have there been any significant trends in terms of the number of listings, prices, or occupancy rates?
+
+* Are there any patterns or trends in terms of the types of properties that are being rented out on Airbnb in New York City? Are certain types of properties more popular or more expensive than others?
+
+* Are there any factors that seem to be correlated with the prices of Airbnb rentals in New York City?
+
+* The best area in New York City for a host to buy property at a good price rate and in an area with high traffic ?
+
+* How do the lengths of stay for Airbnb rentals in New York City vary by neighborhood? Do certain neighborhoods tend to attract longer or shorter stays?
+
+* How do the ratings of Airbnb rentals in New York City compare to their prices? Are higher-priced rentals more likely to have higher ratings?
+
+* Find the total numbers of Reviews and Maximum Reviews by Each Neighborhood Group.
+
+* Find Most reviewed room type in Neighborhood groups per month.
+
+* Find Best location listing/property location for travelers.
+
+* Find also best location listing/property location for Hosts.
+
+* Find Price variations in NYC Neighborhood groups.
